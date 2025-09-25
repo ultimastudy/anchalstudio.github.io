@@ -1,0 +1,43 @@
+Create a professional, modern, and responsive business website for **Anchal Studio**.  
+
+Business Details:  
+- Name: Anchal Studio  
+- Address: Karra College, Kerakat Dobhi, Jaunpur, Uttar Pradesh – 222149  
+- Phone: +91 8737873521  
+- Owner: Anand Kumar  
+
+Website Goals:  
+1. Customer-facing platform to showcase and book Mehndi & beauty services.  
+2. Enable customers to see services, prices, book appointments, and make payments.  
+3. Provide a complete order management dashboard for admin.  
+
+Customer Website Features:  
+- Homepage with attractive hero banner and service highlights.  
+- Services list with detailed descriptions and prices.  
+- Ratings & Reviews section for each service.  
+- Booking system: customer selects date, time, and enters address.  
+- Payment options: Cash, UPI, or Online Gateway.  
+- Instant order confirmation + status update notifications.  
+- Portfolio/Gallery page with Mehndi design images.  
+- FAQ and Ask-a-Question/Chat option for pre-booking queries.  
+- About Us page (with details of Anchal Studio and Anand Kumar as the owner).  
+- Contact page with map, phone, and WhatsApp click-to-call.  
+
+Admin Dashboard Features:  
+- Dashboard showing today’s, upcoming, and completed orders.  
+- Customer database: name, address, phone, photo, and order history.  
+- Service history: what service, date, payment amount, and payment status (Cash/Online).  
+- Revenue analysis and monthly/yearly reports.  
+- Repeat customer tracking.  
+- Area-wise demand insights (which locality orders most).  
+- Notifications & reminders for upcoming appointments.  
+
+Design Style:  
+- Modern, clean, and professional look.  
+- Color scheme: Deep Maroon (#7A1C1C), Golden highlights (#D4AF37), with soft white/gray background.  
+- Responsive design for mobile and desktop.  
+- Easy navigation with top menu and footer.  
+
+Final Output:  
+- A complete customer-facing website connected to an admin dashboard.  
+- Online booking, payments, customer management, and analytics all integrated.
